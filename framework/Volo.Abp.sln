@@ -393,7 +393,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.Http.Client.Web", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.EntityFrameworkCore.Dm", "src\Volo.Abp.EntityFrameworkCore.Dm\Volo.Abp.EntityFrameworkCore.Dm.csproj", "{D452AD8B-5E79-4165-A407-50BF9722533C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.EntityFrameworkCore.Md.Tests", "test\Volo.Abp.EntityFrameworkCore.Md.Tests\Volo.Abp.EntityFrameworkCore.Md.Tests.csproj", "{B36D2AC8-4089-4F75-BB6E-A02BA9BA5AD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Volo.Abp.EntityFrameworkCore.Dm.Tests", "test\Volo.Abp.EntityFrameworkCore.Md.Tests\Volo.Abp.EntityFrameworkCore.Dm.Tests.csproj", "{B36D2AC8-4089-4F75-BB6E-A02BA9BA5AD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
